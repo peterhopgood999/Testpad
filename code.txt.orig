@@ -1,2 +1,6 @@
-here is line 1
+<<<<<<< HEAD
+branch
+=======
+massterrrr
+>>>>>>> refs/remotes/origin/master
 

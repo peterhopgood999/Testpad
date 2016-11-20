@@ -1,2 +1,2 @@
-this is the conflicting line from branch
+this is line 1
 
